@@ -1,2 +1,0 @@
-# Blackjack
-ALL RIGHTS RESERVED
