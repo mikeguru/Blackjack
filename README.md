@@ -1,3 +1,3 @@
-# Blackjack
+# GUI-OOP-Blackjack
 
 ALL RIGHTS RESERVED
